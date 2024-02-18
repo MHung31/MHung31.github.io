@@ -154,8 +154,7 @@ header.p-section {
   display: inline-block;
 }
 
-.extra-images {
-
+.col-sm-4 > img {
   object-fit: contain;
 }
 .marker-highlight:before {
@@ -168,5 +167,5 @@ header.p-section {
   filter: url(#marker-shape);
   left: -0.05em;
   padding: 0 0.25em;
-  bottom: 0.2em;
+  bottom: 0.15em;
 }
