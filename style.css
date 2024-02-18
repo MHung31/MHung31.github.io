@@ -154,6 +154,10 @@ header.p-section {
   display: inline-block;
 }
 
+.extra-images {
+
+  object-fit: contain;
+}
 .marker-highlight:before {
   content: "";
   background-color: #0b6efd87;
